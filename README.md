@@ -1,0 +1,1 @@
+# My magic mirror project re-written in Go
